@@ -9,7 +9,7 @@ size_t my_strlen(const char *s)
 
    return (p - s);
 }
-char *my_strcpy(char *t, char *s)
+/*char *my_strcpy(char *t, char *s)
 
 {
    
@@ -21,7 +21,7 @@ char *my_strcpy(char *t, char *s)
    
    return p;
    
-}
+}*/
 int main(void)
 {
    int i;
